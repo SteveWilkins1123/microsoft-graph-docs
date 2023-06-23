@@ -219,8 +219,9 @@ Content-Type: application/json
 #### Response
 <!-- {
   "blockType": "response",
-  "@odata.type": "microsoft.graph.multiValueLegacyExtendedProperty"
+  "@odata.type": "Edm.String"
 } -->
+
 ```http
   HTTP/1.1 200 OK
   Content-type: application/json
