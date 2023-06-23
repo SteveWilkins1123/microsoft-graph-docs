@@ -173,6 +173,7 @@ The request body includes the following for that multi-value extended property:
 
 
 <!-- { "blockType": "request", "name" : "multivaluelegacyextendedpropertypostmultivalueextendedproperties" } -->
+
 ```http
 POST https://graph.microsoft.com/v1.0/me/events
 Content-Type: application/json
@@ -217,9 +218,10 @@ Content-Type: application/json
 ```
 
 #### Response
+
 <!-- {
   "blockType": "response",
-  "@odata.type": "Edm.String"
+  "@odata.type": "microsoft.graph.multiValueLegacyExtendedProperty"
 } -->
 
 ```http
@@ -315,8 +317,9 @@ Content-Type: application/json
         }
     },
     "onlineMeeting": null
-}
-  ```
+    
+  }
+```
 
 A successful response is indicated by an `HTTP 201 Created` response code, and includes the new event
 in the response body, similar to the response from [creating just an event](../api/user-post-events.md).
