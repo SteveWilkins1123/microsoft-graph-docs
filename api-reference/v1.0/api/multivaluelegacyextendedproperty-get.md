@@ -148,7 +148,6 @@ Note: The **event** object shown here is truncated for brevity. All of the prope
 
 <!-- {
   "blockType": "response",
-  "truncated": true,
   "@odata.type": "microsoft.graph.multiValueLegacyExtendedProperty"
 } -->
 ```http
