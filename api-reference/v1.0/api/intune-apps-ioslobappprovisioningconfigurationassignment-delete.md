@@ -52,7 +52,7 @@ Here is an example of the request.
 
 <!-- { "blockType": "request" , "name" : "intune_apps_ioslobappprovisioningconfigurationassignment_delete_delete_ioslobappprovisioningconfigurationassignment" }-->
 ``` http
-DELETE https://graph.microsoft.com/beta/deviceAppManagement/iosLobAppProvisioningConfigurations/{iosLobAppProvisioningConfigurationId}/assignments/{iosLobAppProvisioningConfigurationAssignmentId}
+DELETE https://graph.microsoft.com/beta/deviceAppManagement/iosLobAppProvisioningConfigurations/eac7008e-008e-eac7-8e00-c7ea8e00c7ea/assignments/acc000-008e-eac7-8e00-c7ea8e00c7ea
 ```
 
 ### Response

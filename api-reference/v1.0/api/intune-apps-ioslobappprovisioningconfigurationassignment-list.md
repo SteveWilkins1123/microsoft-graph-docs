@@ -52,7 +52,7 @@ Here is an example of the request.
 
 <!-- { "blockType": "request" , "name" : "intune_apps_ioslobappprovisioningconfigurationassignment_list_list_ioslobappprovisioningconfigurationassignments" }-->
 ``` http
-GET https://graph.microsoft.com/beta/deviceAppManagement/iosLobAppProvisioningConfigurations/{iosLobAppProvisioningConfigurationId}/assignments
+GET https://graph.microsoft.com/beta/deviceAppManagement/iosLobAppProvisioningConfigurations/eac7008e-008e-eac7-8e00-c7ea8e00c7ea/assignments
 ```
 
 ### Response
