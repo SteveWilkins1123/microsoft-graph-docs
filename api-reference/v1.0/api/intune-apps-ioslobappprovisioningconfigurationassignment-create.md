@@ -61,7 +61,7 @@ Here is an example of the request.
 
 <!-- { "blockType": "request" , "name" : "intune_apps_ioslobappprovisioningconfigurationassignment_create_create_ioslobappprovisioningconfigurationassignment" }-->
 ``` http
-POST https://graph.microsoft.com/beta/deviceAppManagement/iosLobAppProvisioningConfigurations/eac7008e-008e-eac7-8e00-c7ea8e00c7ea/assignments
+POST https://graph.microsoft.com/v1.0/deviceAppManagement/iosLobAppProvisioningConfigurations/eac7008e-008e-eac7-8e00-c7ea8e00c7ea/assignments
 Content-type: application/json
 Content-length: 351
 
