@@ -50,7 +50,7 @@ If successful, this method returns a `200 OK` response code and a collection of 
 ### Request
 Here is an example of the request.
 
-<!-- { "blockType": "request" , "name" : "intune_apps_ioslobappprovisioningconfigurationassignment_list_list_ioslobappprovisioningconfigurationassignments" }-->
+<!-- { "blockType": "ignored" , "name" : "intune_apps_ioslobappprovisioningconfigurationassignment_list_list_ioslobappprovisioningconfigurationassignments" }-->
 ``` http
 GET https://graph.microsoft.com/beta/deviceAppManagement/iosLobAppProvisioningConfigurations/eac7008e-008e-eac7-8e00-c7ea8e00c7ea/assignments
 ```
