@@ -150,7 +150,7 @@ Content-length: 2632
 ### Response
 Here is an example of the response. Note: The response object shown here may be truncated for brevity. All of the properties will be returned from an actual call.
 
-<!-- { "blockType": "response" , "@odata.type" : "microsoft.graph.deviceManagement" }-->
+<!-- { "blockType": "response" , "@odata.type" : "Edm.String" }-->
 ``` http
 HTTP/1.1 200 OK
 Content-Type: application/json
